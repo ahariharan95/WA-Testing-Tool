@@ -15,7 +15,7 @@ url = https://gateway.watsonplatform.net/assistant/api
 ; Watson Assistant Workspace ID (can be found on Watson Assistant UI - navigate to Skills tab and click three dots for View API Details)
 ; Natural Language Classifier classifer ID
 ; Path to JSON file representing the locally saved workspace
-workspace_id = <workspace_id or workspace JSON>
+workspace_id = workspace_id or workspace JSON
 
 ; (Required) Mode to run tool in.  This setting affects which other variables are required in the rest of the DEFAULT section.
 ; Value values: KFOLD, BLIND or TEST
